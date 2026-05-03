@@ -3,6 +3,7 @@
 A simple and modern restaurant website focused on user experience.
 
 This project was built to showcase a clean design where users can easily explore the menu and make reservations without confusion.
+This is a practice project built to improve my frontend skills.
 
 ## Features
 - Menu organized by categories
@@ -12,12 +13,14 @@ This project was built to showcase a clean design where users can easily explore
 - Responsive design (mobile-friendly)
 
 ## Live Demo
-https://your-site-link.netlify.app
+https://culturechinesefood.netlify.app
 
 ## Tech Stack
 - HTML
 - CSS
 - JavaScript
+
+![Preview](screenofsite.png)
 
 ## About
 The goal of this project is to create a smooth and clear restaurant website that feels easy to use and visually clean.
