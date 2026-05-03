@@ -13,7 +13,7 @@ This is a practice project built to improve my frontend skills.
 - Responsive design (mobile-friendly)
 
 ## Live Demo
-https://culturechinesefood.netlify.app
+https://culture-chinese-food.netlify.app
 
 ## Tech Stack
 - HTML
