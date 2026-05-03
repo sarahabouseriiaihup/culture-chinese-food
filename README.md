@@ -20,8 +20,14 @@ https://culturechinesefood.netlify.app
 - CSS
 - JavaScript
 
-## Photos
-- [Preview](screenofsite.png)
+## 📸 Preview
+
+![Home](HomePage.png)
+
+![Menu](Menu.png)
+
+![Reservation](Reservation.png)
+
 
 ## About
 The goal of this project is to create a smooth and clear restaurant website that feels easy to use and visually clean.
