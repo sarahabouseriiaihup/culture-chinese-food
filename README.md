@@ -1,2 +1,26 @@
-# culture-chinese-food
-Culture Chinese Food – Responsive restaurant website with user-friendly menu navigation and reservation system.
+# Culture Chinese Food
+
+A simple and modern restaurant website focused on user experience.
+
+This project was built to showcase a clean design where users can easily explore the menu and make reservations without confusion.
+
+## Features
+- Menu organized by categories
+- Chinese city-based dishes
+- Halal food section
+- Reservation form
+- Responsive design (mobile-friendly)
+
+## Live Demo
+https://your-site-link.netlify.app
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## About
+The goal of this project is to create a smooth and clear restaurant website that feels easy to use and visually clean.
+
+## Contact
+Available for freelance work.
